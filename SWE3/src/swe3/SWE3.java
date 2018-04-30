@@ -15,6 +15,7 @@ public class SWE3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.print("Hello swe");
         // TODO code application logic here
     }
     
